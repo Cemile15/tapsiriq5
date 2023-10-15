@@ -1,0 +1,162 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: lightpink;
+}
+ul{
+    list-style: none;
+    display: flex;
+}
+li{
+    margin-right: 20px;
+    color: black
+}
+
+.huyi1{
+    width: 100%;
+    height: 500px ;
+background-color: mediumorchid;
+display: flex;
+     gap: 160px;
+    align-items:center;
+    justify-content:space-around;
+}
+.huyi1 div{
+    width: 200px;
+    height: 170px;
+    background-color: aliceblue;
+   
+}
+.huyi2{
+    width: 100%;
+    height: 500px;
+   background-color: aqua; 
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.huyi2 .huyi3{
+    margin: 50px;
+    width: 190px;
+    height: 120px;
+    
+    flex-direction: column;
+    background-color:rgb(75, 23, 6); 
+}
+.huyi4 {
+    width: 100%;
+    height: 400px;
+    display: flex;
+    gap: 40px;
+    align-items: center;
+    justify-content: center;
+}
+.huyi4 div{
+    width: 150px;
+    height: 200px;
+    background-color:rgb(102, 95, 95)
+}
+.huyi5{
+   width: 100%;
+   height: 400px;
+   background-color: yellow;
+   display: flex;
+   gap: 190px;
+   align-items: center;
+   justify-content: center;
+}
+.huyi5 div{
+    width: 190px;
+    height: 180px;
+    background-color: black;
+}
+.huyi6{
+    width: 100%;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: maroon;
+    display: flex;
+    gap: 40px;
+    flex-direction: column;
+}
+.huyi6 .huyi7 {
+    width: 200px;
+    height: 100px;
+    margin: 50px;
+    display: flex;
+    justify-self:center;
+    background-color: blanchedalmond;
+}
+.huyi8{
+    width: 100%;
+    height: 90px;
+    display: flex;
+    gap: 20px;
+    align-items:end;
+    justify-content:center;
+}
+.huyi8 div{
+    width: 50px;
+    height: 70px;
+    background-color: aquamarine;
+}
+.huyi9{
+    width: 100%;
+    height: 500px;
+    background-color: mediumpurple;
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.huyi9 .huyi10{
+    margin: 100px;
+    width: 190px;
+    height: 120px;
+    background-color: lightcoral;  
+}
+.huyi11{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    gap: 40px;
+    align-items: center;
+    justify-content: center;  
+}
+.huyi11 div{
+    width: 150px;
+    height: 200px;
+    background-color: paleturquoise; 
+}
+.huyi12{
+    width: 100% ;
+    height: 500px;
+    background-color: indigo;
+    display: flex;
+    gap: 60px;
+    align-items: center;
+    justify-content: center;
+
+}
+.huyi12 div{
+    width: 120px;
+    height: 120px;
+    background-color: lightskyblue;
+}
+.huyi13{
+    width: 100%;
+    height: 50px;
+    background-color: black;
+}
